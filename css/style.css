@@ -1210,7 +1210,7 @@ nav{
 /* popular bus start here */ 
 
 .popularbus{
-    width: 1250px;
+    width: 1260px;
     margin: auto;
     height: 310px;
     /* border: 2px solid rebeccapurple; */
@@ -1244,7 +1244,7 @@ nav{
 
 /* footer start here */
 footer ul{
-    width: 1240px;
+    width: 1260px;
     background-color: #F7F7F7;
     display: flex;
     justify-content: space-between;
